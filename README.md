@@ -39,6 +39,15 @@ also be materialized to a real directory when a static export is useful.
 dataset should be connected. The same official list is also exposed as the
 `datasets/` directory, where each dataset has a `metadata.json` file.
 
+## Documentation
+
+- [User Guide](docs/user-guide.md): install, configure, mount, browse, and
+  troubleshoot the filesystem.
+- [Developer Guide](docs/developer-guide.md): repo structure, architecture,
+  registry model, connector interface, and local development.
+- [Distribution](docs/distribution.md): local packaging and GitHub Release
+  workflow for macOS and Linux binaries.
+
 ## Official Dataset Registry
 
 The filesystem includes an official registry for the AI-for-science datasets
