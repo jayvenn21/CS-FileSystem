@@ -2,6 +2,10 @@
 
 This is a user-space filesystem for exposing Cybershuttle data sources.
 
+## Google Summer of Code 2026 Final Report
+
+See [GSoC-2026-Final-Report.md](./GSoC-2026-Final-Report.md).
+
 This version loads ATLAS metadata from a TSV file and can also load mdCATH,
 MemProtMD, and GPCRmd metadata from TSV or simple CSV files. Each dataset entry
 is exposed as a directory containing a `metadata.json` file.
